@@ -1,14 +1,4 @@
-
-/* .dadJokesContainer{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    flex-wrap: wrap;
-    text-align: center;
-    width: 21%;
-    padding: 2px;
-} */
-
+@import './jokes.css';
 
     body, button, input, select, textarea {
         color: black;
@@ -25,17 +15,7 @@
         text-align:center;
     }
     
-    body {
-        flex-basis: 65%;
-        display: flex;
-        flex-wrap: wrap;
-        text-align: center;
-        font-size: large;
-        justify-content: center;;
-        background-color: lightgoldenrodyellow;
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    }
-        
+    
          
     
    
