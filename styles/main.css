@@ -1,0 +1,46 @@
+
+/* .dadJokesContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+    width: 21%;
+    padding: 2px;
+} */
+
+
+    body, button, input, select, textarea {
+        color: black;
+        font-family: "Comfortaa", Arial, sans-serif;
+        font-size: 14px;
+        line-height: 1.5;
+        padding: 0;
+        margin: 20px;
+    }
+    
+    h1, h2, h3, h4, h5, h6 {
+        font-family: "Patua One", serif;
+        letter-spacing: 2px;
+        text-align:center;
+    }
+    
+    body {
+        flex-basis: 65%;
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        font-size: large;
+        justify-content: center;;
+        background-color: lightgoldenrodyellow;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    }
+        
+         
+    
+   
+    
+   
+
+    
+    
